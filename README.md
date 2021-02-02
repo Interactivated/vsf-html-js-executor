@@ -38,3 +38,13 @@ export default {
 }
 </script>
 ```
+
+Example content for a CMS block:
+
+```js
+<a style="cursor: pointer;" id="example">Click me</p>
+
+<script>
+  document.querySelector('#example').addEventListener('click', function () { console.log('123'); });
+</script>
+```
