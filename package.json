@@ -1,0 +1,14 @@
+{
+    "name": "@interactivated/vsf-html-js-executor",
+    "version": "0.1.0",
+    "description": "Execute a js script from v-html for Vue Storefront",
+    "main": "index.ts",
+    "author": "Interactivated Ecommerce",
+    "license": "MIT",
+    "keywords": [
+      "js script",
+      "cms data",
+      "Vue Storefront",
+      "VueJS"
+    ]
+  }
